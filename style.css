@@ -1,0 +1,33 @@
+#gameDiv {
+    font-family: Monospace;
+    border: 3px solid #A555EC;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #F3CCFF;
+    text-align: center;
+}
+
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+    background-color: #FFFFD0;
+    border-radius: 16px;
+    font-size: larger;
+    font-family: Monospace;
+    color: black;
+}
+
+#playerText {
+    color: #A555EC;
+}
+
+#computerText {
+    color: #A555EC;
+}
+
+#resultText {
+    color: #ec5555;
+}
+h1{
+    font-size: xx-large;
+}
